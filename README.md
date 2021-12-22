@@ -1,2 +1,2 @@
 # PythonCheckers
-Random project to remember python and learn about github
+Project written in python for ENGR 113.
